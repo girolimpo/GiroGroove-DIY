@@ -10,7 +10,7 @@ The files provided in this repository are final production-ready files.
 
 * **BOM** — bill of materials and parts list
 * **STL** — 3D printing files
-* **LASER_CUT** — PDF files for laser cutting
+* **CORTE_LASER** — PDF files for laser cutting
 
 ## Assembly Tutorial
 
