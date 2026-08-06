@@ -1,5 +1,5 @@
 # GiroGroove DIY
-A Giro Limpo project — girolimpo.com.br
+**A Giro Limpo project — [girolimpo.com.br](https://girolimpo.com.br)**
 
 **A simple, functional and easy-to-build DIY turntable.**
 
@@ -40,7 +40,7 @@ You may copy, modify and build the project for non-commercial purposes, provided
 ---
 
 # GiroGroove DIY
-Um projeto Giro Limpo — girolimpo.com.br
+**Um projeto Giro Limpo — [girolimpo.com.br](https://girolimpo.com.br)**
 
 **Um toca-discos DIY simples, funcional e fácil de montar.**
 
