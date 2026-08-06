@@ -76,4 +76,4 @@ Você pode copiar, modificar e produzir o projeto para fins não comerciais, des
 
 **O uso comercial e a venda do projeto ou de suas partes não são permitidos.**
 
-© Giro Limpo — girolimpo.com.br
+© Giro Limpo
