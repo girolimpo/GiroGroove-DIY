@@ -12,7 +12,7 @@ The files provided in this repository are final production-ready files.
 * **STL** — 3D printing files
 * **LASER_CUT** — PDF files for laser cutting
 
-## 🎬 Assembly Tutorial
+## Assembly Tutorial
 
 Follow the complete step-by-step assembly tutorial on YouTube:
 
@@ -52,7 +52,7 @@ Os arquivos disponibilizados neste repositório são finais e estão prontos par
 * **STL** — arquivos para impressão 3D
 * **CORTE_LASER** — arquivos PDF para corte a laser
 
-## 🎬 Tutorial de montagem
+## Tutorial de montagem
 
 Siga o passo a passo completo de montagem no YouTube:
 
