@@ -1,3 +1,5 @@
+![Giro Groove DIY](capagit.png)
+
 # GiroGroove DIY
 **A Giro Limpo project — [girolimpo.com.br](https://girolimpo.com.br)**
 
