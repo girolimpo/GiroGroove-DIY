@@ -35,7 +35,7 @@ You may copy, modify and build the project for non-commercial purposes, provided
 
 **Commercial use and sale of the project or its parts are not permitted.**
 
-© Giro Limpo
+© Giro Limpo - Wesley de Castro - Brazil
 
 ---
 
@@ -76,4 +76,4 @@ Você pode copiar, modificar e produzir o projeto para fins não comerciais, des
 
 **O uso comercial e a venda do projeto ou de suas partes não são permitidos.**
 
-© Giro Limpo
+© Giro Limpo - Wesley de Castro - Brasil
