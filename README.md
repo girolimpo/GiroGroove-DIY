@@ -14,6 +14,7 @@ The files provided in this repository are final production-ready files.
 * **BOM** — bill of materials and parts list
 * **STL** — 3D printing files
 * **CORTE_LASER** — PDF files for laser cutting
+* **STROB_PROTRACT** — PDF file for cartridge calibration and turntable speed
 
 ## Assembly Tutorial
 
@@ -55,6 +56,7 @@ Os arquivos disponibilizados neste repositório são finais e estão prontos par
 * **BOM** — lista de materiais e peças
 * **STL** — arquivos para impressão 3D
 * **CORTE_LASER** — arquivos PDF para corte a laser
+* **STROB_PROTRACT** — arquivo PDF para calibragem da cápsula e velocidade do prato
 
 ## Tutorial de montagem
 
